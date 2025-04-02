@@ -1,0 +1,62 @@
+<!DOCTYPE HTML>
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Exercício 04, Lista de DIVs</title>
+	<style>
+		.perfil {
+				width: 100vh;
+				justify-content: center;
+				margin: 100px;
+				border: solid 2px;
+
+
+
+
+			
+			
+
+
+		}
+		button {
+            display: inline-block;
+            margin-top: 15px;
+            padding: 10px 20px;
+           
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+            transition: 0.3s; }
+
+		button:hover {
+			background: black;
+
+		}
+		a {
+			text-decoration: none;
+		}
+		
+        }
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #f4f4f4;
+        }
+		
+
+	</style>
+</head>
+<body>
+<div class="perfil">
+	<center><p>Bombardilo Crocodilo</p> </center>
+	<center><img src="crocodilo.png"></center>
+	<center><p>bombardilo crocodilo,un fottuto alligatore volante, che vola e bombarda i bambini a Gaza e in palestina</p>
+	<p>non crede in Allah e AMA le bombe, si nutre dello spirito di tua Madre</p> </center>
+	<center><button><a href="https://vm.tiktok.com/ZMBmxBu6J/">Fale com o crocodilo bombardillo</a> </button> </center>
+</div>
+</body>
+</html>
